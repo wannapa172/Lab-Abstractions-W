@@ -1,0 +1,76 @@
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.exe
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.deps.json
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.runtimeconfig.json
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.AssemblyReference.cache
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form1.resources
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.GenerateResource.cache
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfoInputs.cache
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfo.cs
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\refint\Library System Management.dll
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.genruntimeconfig.cache
+C:\Users\TR\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.exe
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.deps.json
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.dll
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form1.resources
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.dll
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\refint\Library System Management.dll
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form2.resources
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form3.resources
+C:\Users\user\Documents\GitHub\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form4.resources
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.exe
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.deps.json
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.runtimeconfig.json
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.AssemblyReference.cache
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form1.resources
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form2.resources
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form3.resources
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form4.resources
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.GenerateResource.cache
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfoInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfo.cs
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TeammyNo1\Desktop\github\Library-System-Management\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.genruntimeconfig.cache
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.exe
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.deps.json
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.runtimeconfig.json
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.AssemblyReference.cache
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form1.resources
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form3.resources
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form4.resources
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.GenerateResource.cache
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfoInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfo.cs
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\TeammyNo1\Desktop\github\Lab-Abstractions1\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.genruntimeconfig.cache
